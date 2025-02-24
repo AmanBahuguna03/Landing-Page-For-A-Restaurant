@@ -8,7 +8,7 @@
 body{
         background-image: url("13.avif");
         background-repeat: no-repeat;
-        background-size: 1050px 600px;
+        background-size: 1550px 600px;
         
 }
 
@@ -173,7 +173,7 @@ button {
 .menu-section {
     background-image: url('menu2.avif');
     background-repeat: no-repeat;
-    background-size: 1050px 1100px;
+    background-size: 1520px 1100px;
     padding: 2rem;
     text-align: center;
 }
@@ -302,7 +302,7 @@ margin-left: 300px;
 .review{
     background-image: url('reviw.webp');
     background-repeat: no-repeat;
-    background-size: 1050px 340px;
+    background-size: 1530px 340px;
 
 }
 
